@@ -1,7 +1,7 @@
 # Giới thiệu
 
-Tên môn học: PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC - Scientific Research Methodology
-Mã lớp: CS519.P11
+- Tên môn học: PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC - Scientific Research Methodology 
+- Mã lớp: CS519.P11
 
 # Giảng viên 
 
